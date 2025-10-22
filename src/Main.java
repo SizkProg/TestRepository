@@ -9,5 +9,6 @@ public class Main {
         System.out.printf("Task 1 comleted ");
         System.out.printf("Task 2 comleted ");
         System.out.printf("Task 3 comleted ");
+        System.out.printf("Developer add");
     }
 }
